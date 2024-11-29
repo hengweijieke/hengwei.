@@ -1,0 +1,96 @@
+body,html{margin-top: 0;
+			height: 100%;
+			background: url("../img/学妹.png");
+			background-repeat: no-reeat;
+			background-size: ;
+			opacity: 1;
+}
+.dahezi{margin: 0px auto;
+	
+		width: 1200px;
+		height: 55cm;
+		/* border: solid red 2px; */
+		overflow: hidden;
+		background-color: rgba(255, 255, 255, 0.6);
+		
+		border-radius: 30px;
+		
+		
+}		
+
+#logo{
+	width: 100px;
+	height: 100px;
+}
+.divlogo{
+	padding: 0px;
+	height: 130px;
+	width: 100%;
+	font-family: yw,yx ;
+	background-image: url("../img/luoyec3.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 130px;
+	color: #fff;
+	}
+.zhuti{
+	display: flex;
+	/* flex-direction: column; */
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+	font-family:yzxk;
+	}
+	.zttp{
+		border: 1px sold ;
+		border-radius: 20px;
+		width: ;
+		height: 360px;
+		box-shadow: 1px 1px 5px #aaffff;
+	
+		
+		/* margin: 15px auto auto 40px; */
+		
+
+	}
+	p{
+		text-align: center;
+		font-size: 45px;
+
+	}
+
+		
+	
+
+/* .div1{
+	position: absolute;
+	top: 800px;
+	left: 20%;
+	text-align: center;
+}
+.div2{
+	position: absolute;
+	top: 800px;
+	left: 53%;
+	text-align: center;
+	border: 1px sold ;
+	border-radius: 20px;
+	width: 430px;
+	height: auto;
+	
+	overflow: hidden;
+}
+.div3{position: absolute;
+top: 1300px;
+margin-left: 13.3%;
+	
+}
+.div4{
+	position: absolute;
+	top: 1400px;
+	left: 300px;} */
+
+.sp{
+	width:auto ;
+	border-radius: 35px;
+	width: 1200px;
+}
